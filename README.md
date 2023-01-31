@@ -3,7 +3,7 @@
 
 On this GitHub profile, you'll find some of the projects I've been working on. These projects are a reflection of my interests and skills, and I hope they will give you a good idea of what I can do.
 ## 🚀 About Me
-Background in Secondary Research and Due Diligence.
+I am an MBA with a background in Secondary Research and Due Diligence. I have worked in the expert Network Industry for the past 5 years and recently transition to Data Science.
 
 
 
@@ -26,6 +26,8 @@ Background in Secondary Research and Due Diligence.
 😄 Pronouns... He/Him
 
 ⚡️ Fun fact... I am a Gemini so I'm born with curiosity. 
+
+
 
 Feel free to take a look around and let me know what you think! If you have any questions or comments, don't hesitate to reach out."
 
