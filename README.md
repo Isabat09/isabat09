@@ -1,5 +1,5 @@
 # Hi, I'm Isabat! 👋
-## I am new to the Data Analyst community with a deep desire to continuously learn and grow! 
+## I am new to the Data Analytics community with a deep desire to continuously learn and grow! 
 
 On this GitHub profile, you'll find some of the projects I've been working on. These projects are a reflection of my interests and skills, and I hope they will give you a good idea of what I can do.
 ## 🚀 About Me
